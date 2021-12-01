@@ -3,7 +3,7 @@ import { getFirestore } from 'firebase/firestore';
 import { collection, addDoc } from "firebase/firestore"; 
 
 const firebaseApp = initializeApp({
-    apiKey: "AIzaSyCIPpU2kSnWEbzb7Xs9Cy7Fg0UocaBM7Y4",
+    apiKey: "xxxxxx",
     authDomain: "frb-upl-dwnld-x-738ca.firebaseapp.com",
     projectId: "frb-upl-dwnld-x-738ca",
     storageBucket: "frb-upl-dwnld-x-738ca.appspot.com",
